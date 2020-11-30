@@ -1,0 +1,16 @@
+= Connecting The Web Interface
+
+You can connect to your ownCloud server using any Web browser; just point it to your ownCloud server and enter your username and password. Supported Web browsers are:
+
+* Edge (current version on Windows 10)
+* Firefox 60 ESR or newer
+* Chrome 66 or newer
+* Chromium 66 or newer
+* Safari 10 or newer
+
+image::OC_login_en.jpg[scale="15%", "ownCloud login screen."]
+
+
+
+
+
