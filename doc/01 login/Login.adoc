@@ -10,6 +10,7 @@ You can connect to your ownCloud server using any Web browser; just point it to 
 
 image::OC_login_en.jpg[scale="15%", "ownCloud login screen."]
 
+NOTE: To switch between the input fields you can use the "tab"-key.
 
 
 
