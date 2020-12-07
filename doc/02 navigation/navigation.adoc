@@ -1,0 +1,6 @@
+= Navigation
+
+To open a folder, just klick on its name.
+
+image::/all_files_ul_docs_hand.png[]
+
