@@ -1,6 +1,33 @@
 = Navigation
 
-To open a folder, just klick on its name.
 
-image::/all_files_ul_docs_hand.png[]
+NOTE: You can identify folders by this icon: image:folder.png[folder,30]
+
+
+To open a folder, just klick on its name:
+
+image::all_files_ul_docs_hand.png[open folder]
+
+Now you can see the content of this folder:
+
+image::docs.png[content of folder]
+
+Should you here also find folders, you can open them the same way...:
+
+image::docs_ul_hand.png[open next folder]
+
+...to inspect their content:
+
+image::docs-examples.png[last folder]
+
+Now you want to know where you are?
+
+Above of the listed content you find the path of the folder you actually see:
+
+image::docs-examples_mark_path.png[path]
+
+Let us now have a closer look at the path-indicator:
+
+image::path_indicator.png[path indicator]
+
 
